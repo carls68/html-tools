@@ -65,6 +65,20 @@ npx serve .
 
 ---
 
+## 微信交流群
+
+欢迎加入我们的微信交流群，一起讨论工具开发和项目进展：
+
+<div align="center">
+
+<img src="https://maas-log-prod.cn-wlcb.ufileos.com/anthropic/2c20f871-bc1f-4ac3-a405-b4bf500da2dc/4c8a8a1b5473c3dd20a722689df8c099.jpg?UCloudPublicKey=TOKEN_e15ba47a-d098-4fbd-9afc-a0dcf0e4e621&Expires=1766433334&Signature=/V2R9wfueH90gTFn9v0rJaZLgcQ=" alt="微信交流群" width="300">
+
+扫码加入微信交流群
+
+</div>
+
+---
+
 ## 贡献工具
 
 我们欢迎社区贡献！提交新工具的流程非常简单：

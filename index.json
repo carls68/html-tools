@@ -23,6 +23,26 @@
       "repo": "https://github.com/justhtmls/html-tools"
     },
     {
+      "id": "json-formatter",
+      "name": "JSON 格式化工具",
+      "slug": "json-formatter",
+      "category": "converter",
+      "tags": ["json", "formatter", "validator", "beautifier"],
+      "author": "JustHTMLs",
+      "authorUrl": "https://github.com/justhtmls",
+      "version": "1.0.0",
+      "description": "格式化、压缩和验证 JSON 数据",
+      "longDescription": "JSON 格式化工具可以帮助你美化、压缩和验证 JSON 数据，支持多种缩进样式、键名排序，显示字符数、行数、文件大小等统计信息。",
+      "icon": "✨",
+      "color": "#667eea",
+      "entry": "tools/json-formatter/app.html",
+      "detail": "tools/json-formatter/index.html",
+      "createdAt": "2025-12-23",
+      "updatedAt": "2025-12-23",
+      "featured": true,
+      "repo": "https://github.com/justhtmls/html-tools"
+    },
+    {
       "id": "base64-encode",
       "name": "Base64 编码解码",
       "slug": "base64-encode",

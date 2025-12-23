@@ -2,13 +2,13 @@
 
 <div align="center">
 
-![JustHTMLs Logo](https://img.shields.io/badge/JustHTMLs-HTML%20Tools-6366f1?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/justhtmls/justhtmls.com?style=for-the-badge)
+[![JustHTMLs Logo](https://img.shields.io/badge/JustHTMLs-HTML%20Tools-6366f1?style=for-the-badge)](https://htmls.dev/)
+[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/justhtmls/html-tools?style=for-the-badge)](https://github.com/justhtmls/html-tools)
 
 **开源 HTML 工具集 - 轻量、隐私、无需安装**
 
-[在线体验](https://htmls.dev/) | [贡献指南](CONTRIBUTING.html) | [提交工具](https://github.com/justhtmls/justhtmls.com/issues/new?template=tool-submission.md)
+[在线体验](https://htmls.dev/) | [贡献指南](CONTRIBUTING.html) | [提交工具](https://github.com/justhtmls/html-tools/issues/new?template=tool-submission.md)
 
 </div>
 
@@ -86,7 +86,7 @@ npx serve .
 ### 方式一：通过 GitHub Issues（推荐）
 
 1. 创建你的工具（单文件 HTML）
-2. [创建工具提交 Issue](https://github.com/justhtmls/html-toolsissues/new?template=tool-submission.md)
+2. [创建工具提交 Issue](https://github.com/justhtmls/html-tools/issues/new?template=tool-submission.md)
 3. 填写工具信息并粘贴代码
 4. 等待审核通过后合并
 
@@ -124,7 +124,7 @@ tools/
 ## 项目结构
 
 ```
-justhtmls.com/
+html-tools/
 ├── index.html              # 主站门户首页
 ├── index.json              # 工具索引文件
 ├── CONTRIBUTING.html       # 贡献指南

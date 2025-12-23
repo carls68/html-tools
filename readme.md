@@ -12,7 +12,7 @@
 
 </div>
 
-<img src="https://piggo5.oss-cn-shenzhen.aliyuncs.com/2026/CleanShot%202025-12-23%20at%2014.24.34.gif" width="400" alt="项目演示">
+![项目演示](https://piggo5.oss-cn-shenzhen.aliyuncs.com/2026/CleanShot%202025-12-23%20at%2014.24.34.gif)
 
 ---
 

